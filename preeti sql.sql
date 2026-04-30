@@ -1,4 +1,4 @@
---   CREATE DATABASE new_schema;
+
 USE new_schema;
 
 CREATE TABLE Preeti (
